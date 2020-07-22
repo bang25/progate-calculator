@@ -2,4 +2,9 @@
     .calculator{
         width: 360px;
     }
+    
+    
+    .calculator-screen{
+        font-size: 40px;
+    }
 }
